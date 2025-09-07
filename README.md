@@ -2,6 +2,8 @@
 
 A library for creating virtual serial devices with Python. Use cases include creating mocks and emulators.
 
+Thank you to [Jaia Robotics](https://www.jaia.tech) for enabling the initial development of this library.
+
 ## Usage
 
 TODO
