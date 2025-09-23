@@ -6,11 +6,11 @@ Thank you to [Jaia Robotics](https://www.jaia.tech) for enabling the initial dev
 
 ## Usage
 
-TODO
+See the [examples](https://github.com/seantfish/vserial/tree/main/examples).
 
 ## Limitations
 
-This library has only ever been tested on Linux. Windows compatibility has not yet been tested.
+This library has only ever been tested on Linux. Windows is not supported.
 
 ## Similar Projects
 
