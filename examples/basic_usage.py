@@ -3,7 +3,7 @@ from pathlib import Path
 import vserial
 
 
-class MockHelm:
+class Mock:
     def __init__(self, name='mock', directory=Path('/tmp')):
         self.name = name
         self.port = directory / name
